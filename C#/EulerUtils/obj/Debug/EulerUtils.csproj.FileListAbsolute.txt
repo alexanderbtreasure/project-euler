@@ -1,0 +1,6 @@
+C:\Users\light\Source\Repos\project-euler\C#\EulerUtils\obj\Debug\EulerUtils.csproj.CoreCompileInputs.cache
+C:\Users\light\Source\Repos\project-euler\C#\EulerUtils\bin\Debug\EulerUtils.dll
+C:\Users\light\Source\Repos\project-euler\C#\EulerUtils\bin\Debug\EulerUtils.pdb
+C:\Users\light\Source\Repos\project-euler\C#\EulerUtils\obj\Debug\EulerUtils.dll
+C:\Users\light\Source\Repos\project-euler\C#\EulerUtils\obj\Debug\EulerUtils.pdb
+C:\Users\light\Source\Repos\project-euler\C#\EulerUtils\obj\Debug\EulerUtils.csprojAssemblyReference.cache
